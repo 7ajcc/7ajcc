@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7ajcc
 - 👀 I’m interested in [ Coding ]
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 How to reach me ? No way
 
